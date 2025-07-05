@@ -147,31 +147,13 @@ The dashboard is built with a mobile-first approach and optimized for all screen
 - Header with search, notifications, and user profile
 - Responsive grid system for optimal content organization
 
-## 🔧 Customization
+### Hosted link (vercel)
 
-### Adding New Components
-
-1. Create a new component in `src/component/`
-2. Import and add to the Dashboard grid
-3. Follow the existing component patterns for consistency
-
-### Modifying Colors
-
-Update the Tailwind CSS classes in components or modify the CSS custom properties for theme colors.
-
-### Data Integration
-
-Replace the mock data in `Dashboard.jsx` with real API calls or data sources.
-
-## Demo & Screenshots
-
-### Live Demo
-
-[Add your deployed application URL here]
+[https://nexstem-final-assignment.vercel.app/](https://nexstem-final-assignment.vercel.app/)
 
 ### Screen Recordings
 
-[Add links to screen recordings showing the responsive behavior and animations]
+[https://drive.google.com/file/d/1IaTsJnBQ7rqon-U0MxU6jE5ThQ2XNRnz/view?usp=sharing](https://drive.google.com/file/d/1IaTsJnBQ7rqon-U0MxU6jE5ThQ2XNRnz/view?usp=sharing)
 
 ## 📄 License
 
